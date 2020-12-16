@@ -1,0 +1,3 @@
+url: "https://raw.githubusercontent.com/Sekramo13/public-jwks/main/swagger.json"
+dom_id: "#swagger-ui"
+validatorUrl: "https://validator.swagger.io/validator"
