@@ -1,4 +1,4 @@
 url: "https://raw.githubusercontent.com/Sekramo13/public-jwks/main/swagger.json"
 dom_id: "#swagger-ui"
 validatorUrl: "https://validator.swagger.io/validator"
-oauth2RedirectUrl: "/docs/oauth2-redirect.html"
+oauth2RedirectUrl: "/document/oauth2-redirect.html"
